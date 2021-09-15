@@ -6,7 +6,7 @@ using WallFertas.Domains;
 
 namespace WallFertas.Interfaces
 {
-    interface IComentario
+    interface IComentarios
     {
         /// <summary>
         /// Lista todos os tipos de usuários
