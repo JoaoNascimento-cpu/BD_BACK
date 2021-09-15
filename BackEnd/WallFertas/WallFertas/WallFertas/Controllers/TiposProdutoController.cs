@@ -4,6 +4,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using WallFertas.Domains;
 using WallFertas.Interfaces;
 using WallFertas.Repositories;
 
@@ -34,6 +35,61 @@ namespace WallFertas.Controllers
             }
         }
 
+        [HttpGet("{id}")]
+        public IActionResult BuscarPorId(int id)
+        {
+            try
+            {
+                return Ok(tipoProduto.BuscarPorId(id));
+
+            }
+            catch (Exception ex)
+            {
+                return BadRequest(ex);
+            }
+        }
+
+        [HttpPost]
+        public IActionResult Cadastrar(TipoProduto novoTipoProduto)
+        {
+            try
+            {
+                tipoProduto.Cadastrar(novoTipoProduto);
+                return StatusCode(201);
+            }
+            catch (Exception ex)
+            {
+                return BadRequest(ex);
+            }
+        }
+
+        [HttpDelete("{id}")]
+        public IActionResult Deletar(int id)
+        {
+            try
+            {
+                tipoProduto.Deletar(id);
+                return StatusCode(204);
+            }
+            catch (Exception ex)
+            {
+                return BadRequest(ex);
+            }
+        }
+
+        [HttpPut("{id}")]
+        public IActionResult Atualizar(int id, TipoProduto novoTipoProduto)
+        {
+            try
+            {
+                tipoProduto.Atualizar(id, novoTipoProduto);
+                return StatusCode(204);
+            }
+            catch (Exception ex)
+            {
+                return BadRequest(ex);
+            }
+        }
 
     }
 }
