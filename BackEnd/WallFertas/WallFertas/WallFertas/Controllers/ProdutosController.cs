@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Http;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using System;
 using System.Collections.Generic;
@@ -49,6 +50,7 @@ namespace WallFertas.Controllers
         }
 
         [HttpPost]
+        [Authorize(Roles = "1")]
         public IActionResult Cadastrar(Produtos novoProduto)
         {
             try
@@ -63,6 +65,7 @@ namespace WallFertas.Controllers
         }
 
         [HttpDelete("{id}")]
+        [Authorize(Roles = "1")]
         public IActionResult Deletar(int id)
         {
             try
@@ -77,6 +80,7 @@ namespace WallFertas.Controllers
         }
 
         [HttpPut("{id}")]
+        [Authorize(Roles = "1")]
         public IActionResult Atualizar(int id, Produtos novoProduto)
         {
             try

@@ -17,31 +17,6 @@
             <returns>Retorna um token com as informações do usuário</returns>
             dominio/api/Login
         </member>
-        <member name="M:WallFertas.Interfaces.IComentarios.Listar">
-            <summary>
-            Lista todos os tipos de usuários
-            </summary>
-        </member>
-        <member name="M:WallFertas.Interfaces.IComentarios.BuscarPorId(System.Int32)">
-            <summary>
-            Busca um tipo de usuário através do ID
-            </summary>
-        </member>
-        <member name="M:WallFertas.Interfaces.IComentarios.Cadastrar(WallFertas.Domains.Comentarios)">
-            <summary>
-            Cadastra um novo tipo de usuário
-            </summary>
-        </member>
-        <member name="M:WallFertas.Interfaces.IComentarios.Atualizar(System.Int32,WallFertas.Domains.Comentarios)">
-            <summary>
-            Atualiza um tipo de usuário existente
-            </summary>
-        </member>
-        <member name="M:WallFertas.Interfaces.IComentarios.Deletar(System.Int32)">
-            <summary>
-            Deleta um tipo de usuário existente
-            </summary>
-        </member>
         <member name="M:WallFertas.Interfaces.IComentariosRepository.Listar">
             <summary>
             Lista todos os tipos de usuários
@@ -67,52 +42,77 @@
             Deleta um tipo de usuário existente
             </summary>
         </member>
-        <member name="M:WallFertas.Interfaces.IEmpresas.Listar">
+        <member name="M:WallFertas.Interfaces.IEmpresasRepository.Listar">
             <summary>
             Lista todos os tipos de usuários
             </summary>
         </member>
-        <member name="M:WallFertas.Interfaces.IEmpresas.BuscarPorId(System.Int32)">
+        <member name="M:WallFertas.Interfaces.IEmpresasRepository.BuscarPorId(System.Int32)">
             <summary>
             Busca um tipo de usuário através do ID
             </summary>
         </member>
-        <member name="M:WallFertas.Interfaces.IEmpresas.Cadastrar(WallFertas.Domains.Empresas)">
+        <member name="M:WallFertas.Interfaces.IEmpresasRepository.Cadastrar(WallFertas.Domains.Empresas)">
             <summary>
             Cadastra um novo tipo de usuário
             </summary>
         </member>
-        <member name="M:WallFertas.Interfaces.IEmpresas.Atualizar(System.Int32,WallFertas.Domains.Empresas)">
+        <member name="M:WallFertas.Interfaces.IEmpresasRepository.Atualizar(System.Int32,WallFertas.Domains.Empresas)">
             <summary>
             Atualiza um tipo de usuário existente
             </summary>
         </member>
-        <member name="M:WallFertas.Interfaces.IEmpresas.Deletar(System.Int32)">
+        <member name="M:WallFertas.Interfaces.IEmpresasRepository.Deletar(System.Int32)">
             <summary>
             Deleta um tipo de usuário existente
             </summary>
         </member>
-        <member name="M:WallFertas.Interfaces.IProdutos.Listar">
+        <member name="M:WallFertas.Interfaces.IProdutosRepository.Listar">
             <summary>
             Lista todos os tipos de usuários
             </summary>
         </member>
-        <member name="M:WallFertas.Interfaces.IProdutos.BuscarPorId(System.Int32)">
+        <member name="M:WallFertas.Interfaces.IProdutosRepository.BuscarPorId(System.Int32)">
             <summary>
             Busca um tipo de usuário através do ID
             </summary>
         </member>
-        <member name="M:WallFertas.Interfaces.IProdutos.Cadastrar(WallFertas.Domains.Produtos)">
+        <member name="M:WallFertas.Interfaces.IProdutosRepository.Cadastrar(WallFertas.Domains.Produtos)">
             <summary>
             Cadastra um novo tipo de usuário
             </summary>
         </member>
-        <member name="M:WallFertas.Interfaces.IProdutos.Atualizar(System.Int32,WallFertas.Domains.Produtos)">
+        <member name="M:WallFertas.Interfaces.IProdutosRepository.Atualizar(System.Int32,WallFertas.Domains.Produtos)">
             <summary>
             Atualiza um tipo de usuário existente
             </summary>
         </member>
-        <member name="M:WallFertas.Interfaces.IProdutos.Deletar(System.Int32)">
+        <member name="M:WallFertas.Interfaces.IProdutosRepository.Deletar(System.Int32)">
+            <summary>
+            Deleta um tipo de usuário existente
+            </summary>
+        </member>
+        <member name="M:WallFertas.Interfaces.ITiposProdutoRepository.Listar">
+            <summary>
+            Lista todos os tipos de usuários
+            </summary>
+        </member>
+        <member name="M:WallFertas.Interfaces.ITiposProdutoRepository.BuscarPorId(System.Int32)">
+            <summary>
+            Busca um tipo de usuário através do ID
+            </summary>
+        </member>
+        <member name="M:WallFertas.Interfaces.ITiposProdutoRepository.Cadastrar(WallFertas.Domains.TiposProduto)">
+            <summary>
+            Cadastra um novo tipo de usuário
+            </summary>
+        </member>
+        <member name="M:WallFertas.Interfaces.ITiposProdutoRepository.Atualizar(System.Int32,WallFertas.Domains.TiposProduto)">
+            <summary>
+            Atualiza um tipo de usuário existente
+            </summary>
+        </member>
+        <member name="M:WallFertas.Interfaces.ITiposProdutoRepository.Deletar(System.Int32)">
             <summary>
             Deleta um tipo de usuário existente
             </summary>
@@ -203,6 +203,13 @@
             <summary>
             Valida o usuário
             </summary>
+        </member>
+        <member name="M:WallFertas.Repositories.EmpresasRepository.Atualizar(System.Int32,WallFertas.Domains.Empresas)">
+            <summary>
+            método utilizado para atualizar a empresa, é nescessário atualizar só o nome
+            </summary>
+            <param name="id">id da  empresa </param>
+            <param name="empresaAtualizada">objeto que irá carregar as novas informações da empresa</param>
         </member>
     </members>
 </doc>

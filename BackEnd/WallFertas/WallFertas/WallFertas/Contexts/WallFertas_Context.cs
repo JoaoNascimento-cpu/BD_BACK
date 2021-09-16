@@ -21,7 +21,7 @@ namespace WallFertas.Contexts
         public virtual DbSet<Comentarios> Comentarios { get; set; }
         public virtual DbSet<Empresas> Empresas { get; set; }
         public virtual DbSet<Produtos> Produtos { get; set; }
-        //public virtual DbSet<TiposProduto> TipoProdutos { get; set; }
+        public virtual DbSet<TiposProduto> TipoProdutos { get; set; }
         public virtual DbSet<TiposUsuario> TipoUsuarios { get; set; }
         public virtual DbSet<Usuarios> Usuarios { get; set; }
 
