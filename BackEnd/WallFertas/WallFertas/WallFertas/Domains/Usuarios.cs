@@ -5,7 +5,7 @@ using System.Collections.Generic;
 
 namespace WallFertas.Domains
 {
-    public partial class Usuario
+    public partial class Usuarios
     {
         public int IdUsuario { get; set; }
         public int? IdTipoUsuario { get; set; }
@@ -13,6 +13,6 @@ namespace WallFertas.Domains
         public string Email { get; set; }
         public string Senha { get; set; }
 
-        public virtual TipoUsuario IdTipoUsuarioNavigation { get; set; }
+        public virtual TiposUsuario IdTipoUsuarioNavigation { get; set; }
     }
 }

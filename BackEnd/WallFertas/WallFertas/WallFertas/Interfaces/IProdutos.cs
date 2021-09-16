@@ -11,23 +11,23 @@ namespace WallFertas.Interfaces
         /// <summary>
         /// Lista todos os tipos de usuários
         /// </summary>
-        List<Produto> Listar();
+        List<Produtos> Listar();
 
         /// <summary>
         /// Busca um tipo de usuário através do ID
         /// </summary>
-        Produto BuscarPorId(int id);
+        Produtos BuscarPorId(int id);
 
         /// <summary>
         /// Cadastra um novo tipo de usuário
         /// </summary>
-        void Cadastrar(Produto novoProduto);
+        void Cadastrar(Produtos novoProduto);
 
         /// <summary>
         /// Atualiza um tipo de usuário existente
         /// </summary>
 
-        void Atualizar(int id, Produto produtoAtualizado);
+        void Atualizar(int id, Produtos produtoAtualizado);
 
         /// <summary>
         /// Deleta um tipo de usuário existente

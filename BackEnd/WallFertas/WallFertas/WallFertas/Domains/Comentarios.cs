@@ -5,12 +5,12 @@ using System.Collections.Generic;
 
 namespace WallFertas.Domains
 {
-    public partial class Comentario
+    public partial class Comentarios
     {
         public int IdComentario { get; set; }
         public int? IdProduto { get; set; }
         public string Descricao { get; set; }
 
-        public virtual Produto IdProdutoNavigation { get; set; }
+        public virtual Produtos IdProdutoNavigation { get; set; }
     }
 }

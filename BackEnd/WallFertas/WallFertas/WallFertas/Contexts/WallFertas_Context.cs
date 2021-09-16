@@ -18,12 +18,12 @@ namespace WallFertas.Contexts
         {
         }
 
-        public virtual DbSet<Comentario> Comentarios { get; set; }
-        public virtual DbSet<Empresa> Empresas { get; set; }
-        public virtual DbSet<Produto> Produtos { get; set; }
-        public virtual DbSet<TipoProduto> TipoProdutos { get; set; }
-        public virtual DbSet<TipoUsuario> TipoUsuarios { get; set; }
-        public virtual DbSet<Usuario> Usuarios { get; set; }
+        public virtual DbSet<Comentarios> Comentarios { get; set; }
+        public virtual DbSet<Empresas> Empresas { get; set; }
+        public virtual DbSet<Produtos> Produtos { get; set; }
+        public virtual DbSet<TiposProduto> TipoProdutos { get; set; }
+        public virtual DbSet<TiposUsuario> TipoUsuarios { get; set; }
+        public virtual DbSet<Usuarios> Usuarios { get; set; }
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
@@ -38,7 +38,7 @@ namespace WallFertas.Contexts
         {
             modelBuilder.HasAnnotation("Relational:Collation", "Latin1_General_CI_AS");
 
-            modelBuilder.Entity<Comentario>(entity =>
+            modelBuilder.Entity<Comentarios>(entity =>
             {
                 entity.HasKey(e => e.IdComentario)
                     .HasName("PK__Comentar__DDBEFBF987FD888C");
@@ -54,7 +54,7 @@ namespace WallFertas.Contexts
                     .HasConstraintName("FK__Comentari__IdPro__412EB0B6");
             });
 
-            modelBuilder.Entity<Empresa>(entity =>
+            modelBuilder.Entity<Empresas>(entity =>
             {
                 entity.HasKey(e => e.IdEmpresa)
                     .HasName("PK__Empresas__5EF4033EB6FE440E");
@@ -72,7 +72,7 @@ namespace WallFertas.Contexts
                     .IsUnicode(false);
             });
 
-            modelBuilder.Entity<Produto>(entity =>
+            modelBuilder.Entity<Produtos>(entity =>
             {
                 entity.HasKey(e => e.IdProduto)
                     .HasName("PK__Produtos__2E883C23D5CA7707");
@@ -100,7 +100,7 @@ namespace WallFertas.Contexts
                     .HasConstraintName("FK__Produtos__IdTipo__3E52440B");
             });
 
-            modelBuilder.Entity<TipoProduto>(entity =>
+            modelBuilder.Entity<TiposProduto>(entity =>
             {
                 entity.HasKey(e => e.IdTipoProduto)
                     .HasName("PK__TipoProd__F71CDF61A97557EA");
@@ -111,7 +111,7 @@ namespace WallFertas.Contexts
                     .IsUnicode(false);
             });
 
-            modelBuilder.Entity<TipoUsuario>(entity =>
+            modelBuilder.Entity<TiposUsuario>(entity =>
             {
                 entity.HasKey(e => e.IdTipoUsuario)
                     .HasName("PK__TipoUsua__CA04062BF8685771");
@@ -122,7 +122,7 @@ namespace WallFertas.Contexts
                     .IsUnicode(false);
             });
 
-            modelBuilder.Entity<Usuario>(entity =>
+            modelBuilder.Entity<Usuarios>(entity =>
             {
                 entity.HasKey(e => e.IdUsuario)
                     .HasName("PK__Usuarios__5B65BF97F6C4D2EF");

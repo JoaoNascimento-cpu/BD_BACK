@@ -5,11 +5,11 @@ using System.Collections.Generic;
 
 namespace WallFertas.Domains
 {
-    public partial class Produto
+    public partial class Produtos
     {
-        public Produto()
+        public Produtos()
         {
-            Comentarios = new HashSet<Comentario>();
+            Comentarios = new HashSet<Comentarios>();
         }
 
         public int IdProduto { get; set; }
@@ -21,7 +21,7 @@ namespace WallFertas.Domains
         public int Preco { get; set; }
         public DateTime Validade { get; set; }
 
-        public virtual TipoProduto IdTipoProdutoNavigation { get; set; }
-        public virtual ICollection<Comentario> Comentarios { get; set; }
+        public virtual TiposProduto IdTipoProdutoNavigation { get; set; }
+        public virtual ICollection<Comentarios> Comentarios { get; set; }
     }
 }

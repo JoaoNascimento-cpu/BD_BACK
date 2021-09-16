@@ -5,16 +5,16 @@ using System.Collections.Generic;
 
 namespace WallFertas.Domains
 {
-    public partial class TipoUsuario
+    public partial class TiposUsuario
     {
-        public TipoUsuario()
+        public TiposUsuario()
         {
-            Usuarios = new HashSet<Usuario>();
+            Usuarios = new HashSet<Usuarios>();
         }
 
         public int IdTipoUsuario { get; set; }
         public string TituloTipoUsuario { get; set; }
 
-        public virtual ICollection<Usuario> Usuarios { get; set; }
+        public virtual ICollection<Usuarios> Usuarios { get; set; }
     }
 }

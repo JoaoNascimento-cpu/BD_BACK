@@ -5,16 +5,16 @@ using System.Collections.Generic;
 
 namespace WallFertas.Domains
 {
-    public partial class TipoProduto
+    public partial class TiposProduto
     {
-        public TipoProduto()
+        public TiposProduto()
         {
-            Produtos = new HashSet<Produto>();
+            Produtos = new HashSet<Produtos>();
         }
 
         public int IdTipoProduto { get; set; }
         public string TituloTipoProduto { get; set; }
 
-        public virtual ICollection<Produto> Produtos { get; set; }
+        public virtual ICollection<Produtos> Produtos { get; set; }
     }
 }

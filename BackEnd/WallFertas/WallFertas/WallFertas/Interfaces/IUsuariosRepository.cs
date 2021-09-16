@@ -6,7 +6,7 @@ using WallFertas.Domains;
 
 namespace WallFertas.Interfaces
 {
-    interface IUsuarioRepository
+    interface IUsuariosRepository
     {
         /// <summary>
         /// Lista todos os usuários

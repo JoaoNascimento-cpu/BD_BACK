@@ -5,7 +5,7 @@ using System.Collections.Generic;
 
 namespace WallFertas.Domains
 {
-    public partial class Empresa
+    public partial class Empresas
     {
         public int IdEmpresa { get; set; }
         public string Nome { get; set; }
