@@ -7939,19 +7939,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Daniel\\.nuget\\packages\\": {}
+    "C:\\Users\\jhony\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Daniel\\Desktop\\Senai\\Joao\\Wall_Fertas\\BackEnd\\WallFertas\\WallFertas\\WallFertas\\WallFertas.csproj",
+      "projectUniqueName": "C:\\Users\\jhony\\Desktop\\Projeto\\Wall_Fertas\\BackEnd\\WallFertas\\WallFertas\\WallFertas\\WallFertas.csproj",
       "projectName": "WallFertas",
-      "projectPath": "C:\\Users\\Daniel\\Desktop\\Senai\\Joao\\Wall_Fertas\\BackEnd\\WallFertas\\WallFertas\\WallFertas\\WallFertas.csproj",
-      "packagesPath": "C:\\Users\\Daniel\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Daniel\\Desktop\\Senai\\Joao\\Wall_Fertas\\BackEnd\\WallFertas\\WallFertas\\WallFertas\\obj\\",
+      "projectPath": "C:\\Users\\jhony\\Desktop\\Projeto\\Wall_Fertas\\BackEnd\\WallFertas\\WallFertas\\WallFertas\\WallFertas.csproj",
+      "packagesPath": "C:\\Users\\jhony\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\jhony\\Desktop\\Projeto\\Wall_Fertas\\BackEnd\\WallFertas\\WallFertas\\WallFertas\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Daniel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\jhony\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

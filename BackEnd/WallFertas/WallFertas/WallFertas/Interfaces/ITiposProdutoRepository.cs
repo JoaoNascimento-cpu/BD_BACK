@@ -6,28 +6,28 @@ using WallFertas.Domains;
 
 namespace WallFertas.Interfaces
 {
-    interface IProdutos
+    interface ITiposProdutoRepository
     {
         /// <summary>
         /// Lista todos os tipos de usuários
         /// </summary>
-        List<Produtos> Listar();
+        List<TiposProduto> Listar();
 
         /// <summary>
         /// Busca um tipo de usuário através do ID
         /// </summary>
-        Produtos BuscarPorId(int id);
+        TiposProduto BuscarPorId(int id);
 
         /// <summary>
         /// Cadastra um novo tipo de usuário
         /// </summary>
-        void Cadastrar(Produtos novoProduto);
+        void Cadastrar(TiposProduto novoTipoProduto);
 
         /// <summary>
         /// Atualiza um tipo de usuário existente
         /// </summary>
 
-        void Atualizar(int id, Produtos produtoAtualizado);
+        void Atualizar(int id, TiposProduto tipoProdutoAtualizado);
 
         /// <summary>
         /// Deleta um tipo de usuário existente

@@ -13,13 +13,13 @@ namespace WallFertas.Controllers
     [Produces("application/json")]
     [Route("api/[controller]")]
     [ApiController]
-    public class TiposProdutoController : ControllerBase
+    public class EmpresasController : ControllerBase
     {
-        private ITiposProdutoRepository tipoProduto { get; set; }
+        private IEmpresasRepository empresas { get; set; }
 
-        public TiposProdutoController()
+        public EmpresasController()
         {
-            tipoProduto = new TiposProdutosRepository();
+            empresas = new EmpresasRepository();
         }
 
         [HttpGet]
@@ -27,7 +27,7 @@ namespace WallFertas.Controllers
         {
             try
             {
-                return Ok(tipoProduto.Listar());
+                return Ok(empresas.Listar());
             }
             catch (Exception ex)
             {
@@ -40,8 +40,7 @@ namespace WallFertas.Controllers
         {
             try
             {
-                return Ok(tipoProduto.BuscarPorId(id));
-
+                return Ok(empresas.BuscarPorId(id));
             }
             catch (Exception ex)
             {
@@ -50,11 +49,11 @@ namespace WallFertas.Controllers
         }
 
         [HttpPost]
-        public IActionResult Cadastrar(TiposProduto novoTipoProduto)
+        public IActionResult Cadastrar(Empresas novaEmpresa)
         {
             try
             {
-                tipoProduto.Cadastrar(novoTipoProduto);
+                empresas.Cadastrar(novaEmpresa);
                 return StatusCode(201);
             }
             catch (Exception ex)
@@ -68,7 +67,7 @@ namespace WallFertas.Controllers
         {
             try
             {
-                tipoProduto.Deletar(id);
+                empresas.Deletar(id);
                 return StatusCode(204);
             }
             catch (Exception ex)
@@ -78,11 +77,11 @@ namespace WallFertas.Controllers
         }
 
         [HttpPut("{id}")]
-        public IActionResult Atualizar(int id, TiposProduto novoTipoProduto)
+        public IActionResult Atualizar(int id, Empresas novaEmpresa)
         {
             try
             {
-                tipoProduto.Atualizar(id, novoTipoProduto);
+                empresas.Atualizar(id, novaEmpresa);
                 return StatusCode(204);
             }
             catch (Exception ex)
@@ -90,6 +89,5 @@ namespace WallFertas.Controllers
                 return BadRequest(ex);
             }
         }
-
     }
 }

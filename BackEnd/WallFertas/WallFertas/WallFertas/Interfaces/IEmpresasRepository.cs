@@ -6,28 +6,28 @@ using WallFertas.Domains;
 
 namespace WallFertas.Interfaces
 {
-    interface IComentarios
+    interface IEmpresasRepository
     {
         /// <summary>
         /// Lista todos os tipos de usuários
         /// </summary>
-        List<Comentarios> Listar();
+        List<Empresas> Listar();
 
         /// <summary>
         /// Busca um tipo de usuário através do ID
         /// </summary>
-        Comentarios BuscarPorId(int id);
+        Empresas BuscarPorId(int id);
 
         /// <summary>
         /// Cadastra um novo tipo de usuário
         /// </summary>
-        void Cadastrar(Comentarios novoComentario);
+        void Cadastrar(Empresas novaEmpresa);
 
         /// <summary>
         /// Atualiza um tipo de usuário existente
         /// </summary>
 
-        void Atualizar(int id, Comentarios comentarioAtualizado);
+        void Atualizar(int id, Empresas empresaAtualizada);
 
         /// <summary>
         /// Deleta um tipo de usuário existente
