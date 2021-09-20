@@ -5,9 +5,9 @@ using System.Collections.Generic;
 
 namespace WallFertas.Domains
 {
-    public partial class Produtos
+    public partial class Produto
     {
-        public Produtos()
+        public Produto()
         {
             Comentarios = new HashSet<Comentarios>();
         }

@@ -18,20 +18,19 @@ namespace WallFertas.Contexts
         {
         }
 
-        public virtual DbSet<Comentarios> Comentarios { get; set; }
-        public virtual DbSet<Empresas> Empresas { get; set; }
-        public virtual DbSet<Produtos> Produtos { get; set; }
-        public virtual DbSet<TiposProduto> TipoProdutos { get; set; }
-        public virtual DbSet<TiposUsuario> TipoUsuarios { get; set; }
-        public virtual DbSet<Usuarios> Usuarios { get; set; }
+        public virtual DbSet<Comentario> Comentarios { get; set; }
+        public virtual DbSet<Empresa> Empresas { get; set; }
+        public virtual DbSet<Produto> Produtos { get; set; }
+        public virtual DbSet<TipoProduto> TipoProdutos { get; set; }
+        public virtual DbSet<TipoUsuario> TipoUsuarios { get; set; }
+        public virtual DbSet<Usuario> Usuarios { get; set; }
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             if (!optionsBuilder.IsConfigured)
             {
-               // #warning To protect potentially sensitive information in your connection string, you should move it out of source code. You can avoid scaffolding the connection string by using the Name= syntax to read it from configuration - see https://go.microsoft.com/fwlink/?linkid=2131148. For more guidance on storing connection strings, see http://go.microsoft.com/fwlink/?LinkId=723263.
-            //optionsBuilder.UseSqlServer("Data Source=Daniel-PC\\SQLEXPRESS; Initial Catalog= WallFertas; user Id=sa; pwd=senai@132;");
-                optionsBuilder.UseSqlServer("Data Source=Daniel-PC\\SQLEXPRESS; Initial Catalog= WallFertas; user Id=sa; pwd=senai@132;");
+#warning To protect potentially sensitive information in your connection string, you should move it out of source code. You can avoid scaffolding the connection string by using the Name= syntax to read it from configuration - see https://go.microsoft.com/fwlink/?linkid=2131148. For more guidance on storing connection strings, see http://go.microsoft.com/fwlink/?LinkId=723263.
+                optionsBuilder.UseSqlServer("Data Source=LAPTOP-II7UP0KL; initial catalog=WallFertas; user Id=sa; pwd=Senai@132;");
             }
         }
 
@@ -39,10 +38,10 @@ namespace WallFertas.Contexts
         {
             modelBuilder.HasAnnotation("Relational:Collation", "Latin1_General_CI_AS");
 
-            modelBuilder.Entity<Comentarios>(entity =>
+            modelBuilder.Entity<Comentario>(entity =>
             {
                 entity.HasKey(e => e.IdComentario)
-                    .HasName("PK__Comentar__DDBEFBF987FD888C");
+                    .HasName("PK__Comentar__DDBEFBF9BBD280A4");
 
                 entity.Property(e => e.Descricao)
                     .IsRequired()
@@ -52,13 +51,13 @@ namespace WallFertas.Contexts
                 entity.HasOne(d => d.IdProdutoNavigation)
                     .WithMany(p => p.Comentarios)
                     .HasForeignKey(d => d.IdProduto)
-                    .HasConstraintName("FK__Comentari__IdPro__412EB0B6");
+                    .HasConstraintName("FK__Comentari__IdPro__6EF57B66");
             });
 
-            modelBuilder.Entity<Empresas>(entity =>
+            modelBuilder.Entity<Empresa>(entity =>
             {
                 entity.HasKey(e => e.IdEmpresa)
-                    .HasName("PK__Empresas__5EF4033EB6FE440E");
+                    .HasName("PK__Empresas__5EF4033EF15D2F64");
 
                 entity.Property(e => e.Cnpj).HasColumnName("CNPJ");
 
@@ -73,10 +72,10 @@ namespace WallFertas.Contexts
                     .IsUnicode(false);
             });
 
-            modelBuilder.Entity<Produtos>(entity =>
+            modelBuilder.Entity<Produto>(entity =>
             {
                 entity.HasKey(e => e.IdProduto)
-                    .HasName("PK__Produtos__2E883C23D5CA7707");
+                    .HasName("PK__Produtos__2E883C236C143C6C");
 
                 entity.Property(e => e.Descricao)
                     .IsRequired()
@@ -85,8 +84,7 @@ namespace WallFertas.Contexts
 
                 entity.Property(e => e.Imagem)
                     .IsRequired()
-                    .HasMaxLength(200)
-                    .IsUnicode(false);
+                    .HasMaxLength(200);
 
                 entity.Property(e => e.Nome)
                     .IsRequired()
@@ -98,13 +96,13 @@ namespace WallFertas.Contexts
                 entity.HasOne(d => d.IdTipoProdutoNavigation)
                     .WithMany(p => p.Produtos)
                     .HasForeignKey(d => d.IdTipoProduto)
-                    .HasConstraintName("FK__Produtos__IdTipo__3E52440B");
+                    .HasConstraintName("FK__Produtos__IdTipo__6C190EBB");
             });
 
-            modelBuilder.Entity<TiposProduto>(entity =>
+            modelBuilder.Entity<TipoProduto>(entity =>
             {
                 entity.HasKey(e => e.IdTipoProduto)
-                    .HasName("PK__TipoProd__F71CDF61A97557EA");
+                    .HasName("PK__TipoProd__F71CDF6142831178");
 
                 entity.Property(e => e.TituloTipoProduto)
                     .IsRequired()
@@ -112,10 +110,10 @@ namespace WallFertas.Contexts
                     .IsUnicode(false);
             });
 
-            modelBuilder.Entity<TiposUsuario>(entity =>
+            modelBuilder.Entity<TipoUsuario>(entity =>
             {
                 entity.HasKey(e => e.IdTipoUsuario)
-                    .HasName("PK__TipoUsua__CA04062BF8685771");
+                    .HasName("PK__TipoUsua__CA04062B280EC36F");
 
                 entity.Property(e => e.TituloTipoUsuario)
                     .IsRequired()
@@ -123,12 +121,12 @@ namespace WallFertas.Contexts
                     .IsUnicode(false);
             });
 
-            modelBuilder.Entity<Usuarios>(entity =>
+            modelBuilder.Entity<Usuario>(entity =>
             {
                 entity.HasKey(e => e.IdUsuario)
-                    .HasName("PK__Usuarios__5B65BF97F6C4D2EF");
+                    .HasName("PK__Usuarios__5B65BF977D1710D2");
 
-                entity.HasIndex(e => e.Email, "UQ__Usuarios__A9D1053459BCDE8D")
+                entity.HasIndex(e => e.Email, "UQ__Usuarios__A9D1053464790BC0")
                     .IsUnique();
 
                 entity.Property(e => e.Email)

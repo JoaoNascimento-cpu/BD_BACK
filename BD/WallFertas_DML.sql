@@ -21,7 +21,7 @@ VALUES                      (1,'Daniel', 'daniel@gmail.com', '123'),
 GO
 
 INSERT INTO Produtos		(IdTipoProduto, Nome, Quantidade, Descricao, Imagem, Preco, Validade)
-VALUES                      (1,'Arroz Agulhinha', 10, 'Arroz branco', 'arroz.png', 20, '2021-12-31'),
+VALUES                      (1,'Arroz Agulhinha', 10, 'Arroz branco', 'arroz.jpg', 20, '2021-12-31'),
 							(2,'feijao Polido', 10, 'fejao preto', 'feijao.png', 25, '2021-12-31'),
 							(3,'açucar união', 10, 'açucar mascavo', 'açucar.png', 5, '2021-12-31'),
 							(4,'Agua', 10, 'Agua mineral', 'agua.png', 2, '2021-12-31'),
