@@ -25,7 +25,7 @@ namespace WallFertas.Controllers
 
         //Listar
         [HttpGet]
-        [Authorize(Roles = "1")]
+        //[Authorize(Roles = "1")]
         public IActionResult Get()
         {
             try
@@ -40,7 +40,7 @@ namespace WallFertas.Controllers
 
         //Buscar Por Id
         [HttpGet("{id}")]
-        [Authorize(Roles = "1")]
+        //[Authorize(Roles = "1")]
         public IActionResult GetById(int id)
         {
             try
@@ -56,7 +56,7 @@ namespace WallFertas.Controllers
 
         //Cadastrar
         [HttpPost]
-        [Authorize(Roles = "1")]
+        //[Authorize(Roles = "1")]
         public IActionResult Post(Usuarios novoUsuario)
         {
             try
@@ -73,7 +73,7 @@ namespace WallFertas.Controllers
 
         //Atualizar
         [HttpPut("{id}")]
-        [Authorize(Roles = "1")]
+        //[Authorize(Roles = "1")]
         public IActionResult Put(int id, Usuarios usuarioAtualizado)
         {
             try
@@ -90,7 +90,7 @@ namespace WallFertas.Controllers
 
         //Deletar
         [HttpDelete("{id}")]
-        [Authorize(Roles = "1")]
+        //[Authorize(Roles = "1")]
         public IActionResult Delete(int id)
         {
             try

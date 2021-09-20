@@ -1,18 +1,27 @@
 import { Component} from 'react';
+import logo from '../../../assets/img/w2.png'
 
+import '../../../assets/css/login.css'
 
-class CadastraUsuario  extends Component{
+class ModalUsuario  extends Component{
     constructor(props){
         super(props);
         this.state = {
+            idTipoUsuario : 2,
+            nome : '',
             email : '',
             senha : '',
-            nome : ''
         }
     }
 
     //---------------------------------------------------------------------------------------------------
-    
+    //ATUALIZA idTipoUsuario
+
+    AtualizaIdTipoUsuario = async(event) => {
+        await this.setState({idTipoUsuario : event.target.value})
+    }
+
+    //---------------------------------------------------------------------------------------------------
     //ATUALIZA EMAIL
 
     AtualizaEmail = async(event) => {
@@ -27,11 +36,11 @@ class CadastraUsuario  extends Component{
     }
 
     //---------------------------------------------------------------------------------------------------
+    //ATUALIZA A NOME
+
     AtualizaNome = async(event) => {
         await this.setState({nome : event.target.value})
-    }
-
-    //---------------------------------------------------------------------------------------------------
+    };
 
     //CADASTRA UM NOVA USUARIO
 
@@ -45,7 +54,7 @@ class CadastraUsuario  extends Component{
             method : 'POST',
                 
             //CONVERTE A RESPOSTA RECEBIDA EM JSON
-            body : JSON.stringify ({email : this.state.email, senha : this.state.senha, nome : this.state.nome  }),
+            body : JSON.stringify ({idTipoUsuario : this.state.idTipoUsuario, email : this.state.email, senha : this.state.senha, nome : this.state.nome}),
             
             //DEFINE O CABEÇALHO DA REQUISIÇÃO
             headers : {
@@ -57,7 +66,7 @@ class CadastraUsuario  extends Component{
 //---------------------------------------------------------------------------------------------------
     limparCampos = () => {
         this.setState({
-            idTipoUsuario : 0,
+            idTipoUsuario : 2,
             email : '',
             senha : '',
             nome : ''
@@ -68,22 +77,20 @@ class CadastraUsuario  extends Component{
         return(
             <main>
                 <section>
-                <h2>CADASTRO </h2>
-                    <form onSubmit={this.cadastranovousuario}>
+                <img src={logo} alt="logo"/>
+                    <form onSubmit={this.cadastranovousuario} className="areaLogin dis column">
                 <div className="Cadastrar">
                     
-                    <input placeholder="Digite o email do usuario" value = {this.state.email} onChange={this.AtualizaEmail}type="text" className="gui2"></input>
+                    <input placeholder="Digite o email do usuario" value = {this.state.email} onChange={this.AtualizaEmail}type="text" className="inputsLogin"></input>
 
-                    
-                    <input placeholder="Digite a senha do usuario" value = {this.state.senha} onChange={this.AtualizaSenha} type="text" className='gui2'></input>
+                    <input placeholder="Digite a senha do usuario" value = {this.state.senha} onChange={this.AtualizaSenha} type="text" className="inputsLogin"></input>
 
-                    
-                    <input placeholder="Digite o Nome" value = {this.state.nome} onChange={this.AtualizaNome} type="text" className='gui2'></input>
+                    <input placeholder="Digite o nome do usuario" value = {this.state.nome} onChange={this.AtualizaNome} type="text" className="inputsLogin"></input>
                     
                     {
-                        <button type='submit' disabled={this.state.email === '', this.state.senha === '', this.state.nome === '' ? 'none' : ''} >Cadastrar</button>
+                        <button type='submit' disabled={this.state.idTipoUsuario === '', this.state.email === '', this.state.senha === '', this.state.nome === '' ? 'none' : ''} className='buttonGeral1'>Cadastrar</button>
                     }
-                        <button onClick={this.limparCampos}>
+                        <button onClick={this.limparCampos} className='buttonGeral1'>
                             Cancelar
                         </button>
                 </div>
@@ -93,4 +100,4 @@ class CadastraUsuario  extends Component{
             </main>
         )}
 }
-export default CadastraUsuario;
+export default ModalUsuario;

@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Microsoft.AspNetCore.Http;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
@@ -33,5 +34,7 @@ namespace WallFertas.Interfaces
         /// Deleta um tipo de usuário existente
         /// </summary>
         void Deletar(int id);
+
+        string UploadFoto(IFormFile arquivo, string savingFolder);
     }
 }

@@ -1,15 +1,15 @@
 import react, {useState,} from "react";
 import Modal from "react-modal";
-import Produto from '../Modalimport/ModalProduto'
 import { Component } from "react";
+import ModalProdutos from '../Modalimport/ModalProduto'
 
-function ModalLogin() {
+function ModalProdutos2() {
   const [modalIsOpen, setModalIsOpen] = useState(false)
   return (
     <div>
       <button onClick={() => setModalIsOpen(true)}>Open</button>
       <Modal isOpen={modalIsOpen} onRequestClose={() => setModalIsOpen(false)}>
-        <Produto/>
+        <ModalProdutos/>
         <div>
         <button onClick={() => setModalIsOpen(false)}>Close</button>
         </div>
@@ -18,4 +18,4 @@ function ModalLogin() {
   );
 }
 
-export default ModalLogin;
+export default ModalProdutos2;

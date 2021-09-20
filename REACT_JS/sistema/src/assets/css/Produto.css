@@ -1,3 +1,16 @@
-.ai p{
-    color: black;
+
+.table{
+    display: flex;
+    flex-wrap: wrap;
+    background-color: white;
+    
+}
+.a1{
+    border: solid 1px black;
+    
+    padding: 10px;
+    margin: 20px;
+}
+.a1 p{
+margin: 15px;
 }
