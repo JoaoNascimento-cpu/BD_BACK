@@ -78,12 +78,12 @@ body{
     display: flex;
 }
 .buttonGeral{
-    width: 120px;
-    height: 25px;
-    background-color: #354089;
+    width: 130px;
+    height: 35px;
+    background-color: #d6b80b;
     border-radius: 4px;
     font-family: 'Montserrat';
-    color: #fff;
+    color: rgb(255, 255, 255);
     border: none;
     margin-top: 20px;
     margin-left: 115px;

@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "C:\\Users\\guilh\\Desktop\\Wall_Fertas\\BackEnd_WallFertas\\WallFertas\\WallFertas\\WallFertas.csproj": {}
   },
   "projects": {
@@ -12,9 +13,22 @@
         "projectPath": "C:\\Users\\guilh\\Desktop\\Wall_Fertas\\BackEnd_WallFertas\\WallFertas\\WallFertas\\WallFertas.csproj",
         "packagesPath": "C:\\Users\\guilh\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\guilh\\Desktop\\Wall_Fertas\\BackEnd_WallFertas\\WallFertas\\WallFertas\\obj\\",
+=======
+    "C:\\Users\\Daniel\\Desktop\\Senai\\ProjetoWallFertas\\Wall_Fertas\\BackEnd_WallFertas\\WallFertas\\WallFertas\\WallFertas.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Daniel\\Desktop\\Senai\\ProjetoWallFertas\\Wall_Fertas\\BackEnd_WallFertas\\WallFertas\\WallFertas\\WallFertas.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Daniel\\Desktop\\Senai\\ProjetoWallFertas\\Wall_Fertas\\BackEnd_WallFertas\\WallFertas\\WallFertas\\WallFertas.csproj",
+        "projectName": "WallFertas",
+        "projectPath": "C:\\Users\\Daniel\\Desktop\\Senai\\ProjetoWallFertas\\Wall_Fertas\\BackEnd_WallFertas\\WallFertas\\WallFertas\\WallFertas.csproj",
+        "packagesPath": "C:\\Users\\Daniel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Daniel\\Desktop\\Senai\\ProjetoWallFertas\\Wall_Fertas\\BackEnd_WallFertas\\WallFertas\\WallFertas\\obj\\",
+>>>>>>> bc7fa21076ff62b3b00fa5b5c43f779e69dafb96
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\guilh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Daniel\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -101,7 +115,11 @@
               "privateAssets": "all"
             }
           },
+<<<<<<< HEAD
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.207\\RuntimeIdentifierGraph.json"
+=======
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+>>>>>>> bc7fa21076ff62b3b00fa5b5c43f779e69dafb96
         }
       }
     }
