@@ -33,7 +33,7 @@ CREATE TABLE Produtos
 		,Nome VARCHAR(200) NOT NULL
 		,Quantidade INT NOT NULL
 		,Descricao VARCHAR(200) NOT NULL
-		,Imagem VARCHAR (200) NOT NULL
+		,Imagem NVARCHAR (200) NOT NULL
 		,Preco INT NOT NULL
 		,Validade DATE NOT NULL
 );
