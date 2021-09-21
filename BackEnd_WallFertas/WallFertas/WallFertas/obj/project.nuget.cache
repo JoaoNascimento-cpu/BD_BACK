@@ -1,14 +1,8 @@
 {
   "version": 2,
-<<<<<<< HEAD
-  "dgSpecHash": "SW3srrhtpJMcYTCtx084LT+pnsFZPl/z+TXbGM8X0wjy98a9oRfKAhXJNu47qO0ASokDKPyiB4VMDfp9Ni83PQ==",
-  "success": true,
-  "projectFilePath": "C:\\Users\\guilh\\Desktop\\Wall_Fertas\\BackEnd_WallFertas\\WallFertas\\WallFertas\\WallFertas.csproj",
-=======
   "dgSpecHash": "HZ1U3/+2OTp/4aq7ljiKHKzissCVo97Uwb/tRb3mbB2WSN6roqZlnSQ6kM2L/s8DSY1g3mMGTRyfeaWBhvIUMw==",
   "success": true,
   "projectFilePath": "C:\\Users\\Daniel\\Desktop\\Senai\\ProjetoWallFertas\\Wall_Fertas\\BackEnd_WallFertas\\WallFertas\\WallFertas\\WallFertas.csproj",
->>>>>>> bc7fa21076ff62b3b00fa5b5c43f779e69dafb96
   "expectedPackageFiles": [
     "C:\\Users\\Daniel\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Daniel\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\5.0.10\\microsoft.aspnetcore.authentication.jwtbearer.5.0.10.nupkg.sha512",
@@ -163,5 +157,12 @@
     "C:\\Users\\Daniel\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
     "C:\\Users\\Daniel\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problema ao ler o arquivo de cache C:\\Users\\Daniel\\Desktop\\Senai\\ProjetoWallFertas\\Wall_Fertas\\BackEnd_WallFertas\\WallFertas\\WallFertas\\obj\\project.nuget.cache: Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }

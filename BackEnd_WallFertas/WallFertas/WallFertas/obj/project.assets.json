@@ -7944,19 +7944,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-<<<<<<< HEAD
-      "projectUniqueName": "C:\\Users\\guilh\\Desktop\\Wall_Fertas\\BackEnd_WallFertas\\WallFertas\\WallFertas\\WallFertas.csproj",
-      "projectName": "WallFertas",
-      "projectPath": "C:\\Users\\guilh\\Desktop\\Wall_Fertas\\BackEnd_WallFertas\\WallFertas\\WallFertas\\WallFertas.csproj",
-      "packagesPath": "C:\\Users\\guilh\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\guilh\\Desktop\\Wall_Fertas\\BackEnd_WallFertas\\WallFertas\\WallFertas\\obj\\",
-=======
       "projectUniqueName": "C:\\Users\\Daniel\\Desktop\\Senai\\ProjetoWallFertas\\Wall_Fertas\\BackEnd_WallFertas\\WallFertas\\WallFertas\\WallFertas.csproj",
       "projectName": "WallFertas",
       "projectPath": "C:\\Users\\Daniel\\Desktop\\Senai\\ProjetoWallFertas\\Wall_Fertas\\BackEnd_WallFertas\\WallFertas\\WallFertas\\WallFertas.csproj",
       "packagesPath": "C:\\Users\\Daniel\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Daniel\\Desktop\\Senai\\ProjetoWallFertas\\Wall_Fertas\\BackEnd_WallFertas\\WallFertas\\WallFertas\\obj\\",
->>>>>>> bc7fa21076ff62b3b00fa5b5c43f779e69dafb96
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Daniel\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -8046,12 +8038,16 @@
             "privateAssets": "all"
           }
         },
-<<<<<<< HEAD
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.207\\RuntimeIdentifierGraph.json"
-=======
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
->>>>>>> bc7fa21076ff62b3b00fa5b5c43f779e69dafb96
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problema ao ler o arquivo de cache C:\\Users\\Daniel\\Desktop\\Senai\\ProjetoWallFertas\\Wall_Fertas\\BackEnd_WallFertas\\WallFertas\\WallFertas\\obj\\project.nuget.cache: Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }
