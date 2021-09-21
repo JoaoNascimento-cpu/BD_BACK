@@ -1,0 +1,523 @@
+C:\Users\Daniel\Desktop\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Daniel\Desktop\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\appsettings.json
+C:\Users\Daniel\Desktop\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\WallFertas.exe
+C:\Users\Daniel\Desktop\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\WallFertas.deps.json
+C:\Users\Daniel\Desktop\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\WallFertas.runtimeconfig.json
+C:\Users\Daniel\Desktop\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\WallFertas.runtimeconfig.dev.json
+C:\Users\Daniel\Desktop\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\WallFertas.dll
+C:\Users\Daniel\Desktop\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\ref\WallFertas.dll
+C:\Users\Daniel\Desktop\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\WallFertas.pdb
+C:\Users\Daniel\Desktop\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Daniel\Desktop\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Daniel\Desktop\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Daniel\Desktop\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Daniel\Desktop\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Daniel\Desktop\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Daniel\Desktop\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Daniel\Desktop\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Daniel\Desktop\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Daniel\Desktop\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\Daniel\Desktop\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Daniel\Desktop\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+C:\Users\Daniel\Desktop\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Daniel\Desktop\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Daniel\Desktop\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Daniel\Desktop\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Daniel\Desktop\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Daniel\Desktop\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Daniel\Desktop\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Daniel\Desktop\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Daniel\Desktop\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Daniel\Desktop\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\Daniel\Desktop\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Daniel\Desktop\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Daniel\Desktop\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Daniel\Desktop\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Daniel\Desktop\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\Daniel\Desktop\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Daniel\Desktop\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Daniel\Desktop\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Daniel\Desktop\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Daniel\Desktop\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Daniel\Desktop\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Daniel\Desktop\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Daniel\Desktop\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Daniel\Desktop\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Daniel\Desktop\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Daniel\Desktop\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Daniel\Desktop\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Daniel\Desktop\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Daniel\Desktop\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Daniel\Desktop\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Daniel\Desktop\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\Daniel\Desktop\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\Daniel\Desktop\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Daniel\Desktop\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Daniel\Desktop\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Daniel\Desktop\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Daniel\Desktop\BackEnd\WallFertas\WallFertas\WallFertas\obj\Debug\net5.0\WallFertas.csproj.AssemblyReference.cache
+C:\Users\Daniel\Desktop\BackEnd\WallFertas\WallFertas\WallFertas\obj\Debug\net5.0\WallFertas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel\Desktop\BackEnd\WallFertas\WallFertas\WallFertas\obj\Debug\net5.0\WallFertas.AssemblyInfoInputs.cache
+C:\Users\Daniel\Desktop\BackEnd\WallFertas\WallFertas\WallFertas\obj\Debug\net5.0\WallFertas.AssemblyInfo.cs
+C:\Users\Daniel\Desktop\BackEnd\WallFertas\WallFertas\WallFertas\obj\Debug\net5.0\WallFertas.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Desktop\BackEnd\WallFertas\WallFertas\WallFertas\obj\Debug\net5.0\WallFertas.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Daniel\Desktop\BackEnd\WallFertas\WallFertas\WallFertas\obj\Debug\net5.0\WallFertas.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Daniel\Desktop\BackEnd\WallFertas\WallFertas\WallFertas\obj\Debug\net5.0\staticwebassets\WallFertas.StaticWebAssets.Manifest.cache
+C:\Users\Daniel\Desktop\BackEnd\WallFertas\WallFertas\WallFertas\obj\Debug\net5.0\staticwebassets\WallFertas.StaticWebAssets.xml
+C:\Users\Daniel\Desktop\BackEnd\WallFertas\WallFertas\WallFertas\obj\Debug\net5.0\scopedcss\bundle\WallFertas.styles.css
+C:\Users\Daniel\Desktop\BackEnd\WallFertas\WallFertas\WallFertas\obj\Debug\net5.0\WallFertas.RazorTargetAssemblyInfo.cache
+C:\Users\Daniel\Desktop\BackEnd\WallFertas\WallFertas\WallFertas\obj\Debug\net5.0\WallFertas.csproj.CopyComplete
+C:\Users\Daniel\Desktop\BackEnd\WallFertas\WallFertas\WallFertas\obj\Debug\net5.0\WallFertas.dll
+C:\Users\Daniel\Desktop\BackEnd\WallFertas\WallFertas\WallFertas\obj\Debug\net5.0\ref\WallFertas.dll
+C:\Users\Daniel\Desktop\BackEnd\WallFertas\WallFertas\WallFertas\obj\Debug\net5.0\WallFertas.pdb
+C:\Users\Daniel\Desktop\BackEnd\WallFertas\WallFertas\WallFertas\obj\Debug\net5.0\WallFertas.genruntimeconfig.cache
+C:\Users\jhony\Desktop\Projeto\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\jhony\Desktop\Projeto\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\appsettings.json
+C:\Users\jhony\Desktop\Projeto\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\WallFertas.exe
+C:\Users\jhony\Desktop\Projeto\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\WallFertas.deps.json
+C:\Users\jhony\Desktop\Projeto\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\WallFertas.runtimeconfig.json
+C:\Users\jhony\Desktop\Projeto\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\WallFertas.runtimeconfig.dev.json
+C:\Users\jhony\Desktop\Projeto\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\WallFertas.dll
+C:\Users\jhony\Desktop\Projeto\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\ref\WallFertas.dll
+C:\Users\jhony\Desktop\Projeto\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\WallFertas.pdb
+C:\Users\jhony\Desktop\Projeto\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\Humanizer.dll
+C:\Users\jhony\Desktop\Projeto\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\jhony\Desktop\Projeto\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\jhony\Desktop\Projeto\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\jhony\Desktop\Projeto\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\jhony\Desktop\Projeto\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\jhony\Desktop\Projeto\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\jhony\Desktop\Projeto\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\jhony\Desktop\Projeto\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\jhony\Desktop\Projeto\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\jhony\Desktop\Projeto\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\jhony\Desktop\Projeto\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+C:\Users\jhony\Desktop\Projeto\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\jhony\Desktop\Projeto\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\jhony\Desktop\Projeto\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\jhony\Desktop\Projeto\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\jhony\Desktop\Projeto\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\jhony\Desktop\Projeto\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\jhony\Desktop\Projeto\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\jhony\Desktop\Projeto\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\jhony\Desktop\Projeto\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\jhony\Desktop\Projeto\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\jhony\Desktop\Projeto\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\jhony\Desktop\Projeto\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\jhony\Desktop\Projeto\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\jhony\Desktop\Projeto\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\jhony\Desktop\Projeto\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\jhony\Desktop\Projeto\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\jhony\Desktop\Projeto\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\jhony\Desktop\Projeto\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\jhony\Desktop\Projeto\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\jhony\Desktop\Projeto\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\jhony\Desktop\Projeto\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\jhony\Desktop\Projeto\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\jhony\Desktop\Projeto\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\jhony\Desktop\Projeto\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\jhony\Desktop\Projeto\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\jhony\Desktop\Projeto\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\jhony\Desktop\Projeto\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\jhony\Desktop\Projeto\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\jhony\Desktop\Projeto\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\jhony\Desktop\Projeto\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\jhony\Desktop\Projeto\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\jhony\Desktop\Projeto\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\jhony\Desktop\Projeto\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\jhony\Desktop\Projeto\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\jhony\Desktop\Projeto\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\jhony\Desktop\Projeto\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\jhony\Desktop\Projeto\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\obj\Debug\net5.0\WallFertas.csproj.AssemblyReference.cache
+C:\Users\jhony\Desktop\Projeto\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\obj\Debug\net5.0\WallFertas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jhony\Desktop\Projeto\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\obj\Debug\net5.0\WallFertas.AssemblyInfoInputs.cache
+C:\Users\jhony\Desktop\Projeto\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\obj\Debug\net5.0\WallFertas.AssemblyInfo.cs
+C:\Users\jhony\Desktop\Projeto\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\obj\Debug\net5.0\WallFertas.csproj.CoreCompileInputs.cache
+C:\Users\jhony\Desktop\Projeto\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\obj\Debug\net5.0\WallFertas.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\jhony\Desktop\Projeto\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\obj\Debug\net5.0\WallFertas.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jhony\Desktop\Projeto\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\obj\Debug\net5.0\staticwebassets\WallFertas.StaticWebAssets.Manifest.cache
+C:\Users\jhony\Desktop\Projeto\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\obj\Debug\net5.0\staticwebassets\WallFertas.StaticWebAssets.xml
+C:\Users\jhony\Desktop\Projeto\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\obj\Debug\net5.0\scopedcss\bundle\WallFertas.styles.css
+C:\Users\jhony\Desktop\Projeto\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\obj\Debug\net5.0\WallFertas.RazorTargetAssemblyInfo.cache
+C:\Users\jhony\Desktop\Projeto\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\obj\Debug\net5.0\WallFertas.csproj.CopyComplete
+C:\Users\jhony\Desktop\Projeto\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\obj\Debug\net5.0\WallFertas.dll
+C:\Users\jhony\Desktop\Projeto\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\obj\Debug\net5.0\ref\WallFertas.dll
+C:\Users\jhony\Desktop\Projeto\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\obj\Debug\net5.0\WallFertas.pdb
+C:\Users\jhony\Desktop\Projeto\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\obj\Debug\net5.0\WallFertas.genruntimeconfig.cache
+C:\Users\jhony\Desktop\Projeto\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\WallFertas.xml
+C:\Users\jhony\Desktop\Projeto\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\obj\Debug\net5.0\WallFertas.xml
+C:\Users\Daniel\Desktop\Senai\Joao\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\obj\Debug\net5.0\WallFertas.csproj.AssemblyReference.cache
+C:\Users\Daniel\Desktop\Senai\Joao\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\obj\Debug\net5.0\WallFertas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel\Desktop\Senai\Joao\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\obj\Debug\net5.0\WallFertas.AssemblyInfoInputs.cache
+C:\Users\Daniel\Desktop\Senai\Joao\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\obj\Debug\net5.0\WallFertas.AssemblyInfo.cs
+C:\Users\Daniel\Desktop\Senai\Joao\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\obj\Debug\net5.0\WallFertas.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Desktop\Senai\Joao\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\obj\Debug\net5.0\WallFertas.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Daniel\Desktop\Senai\Joao\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\obj\Debug\net5.0\WallFertas.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Daniel\Desktop\Senai\Joao\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\obj\Debug\net5.0\WallFertas.dll
+C:\Users\Daniel\Desktop\Senai\Joao\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\obj\Debug\net5.0\ref\WallFertas.dll
+C:\Users\Daniel\Desktop\Senai\Joao\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\obj\Debug\net5.0\WallFertas.xml
+C:\Users\Daniel\Desktop\Senai\Joao\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\obj\Debug\net5.0\WallFertas.pdb
+C:\Users\Daniel\Desktop\Senai\Joao\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Daniel\Desktop\Senai\Joao\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\appsettings.json
+C:\Users\Daniel\Desktop\Senai\Joao\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\WallFertas.exe
+C:\Users\Daniel\Desktop\Senai\Joao\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\WallFertas.deps.json
+C:\Users\Daniel\Desktop\Senai\Joao\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\WallFertas.runtimeconfig.json
+C:\Users\Daniel\Desktop\Senai\Joao\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\WallFertas.runtimeconfig.dev.json
+C:\Users\Daniel\Desktop\Senai\Joao\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\WallFertas.dll
+C:\Users\Daniel\Desktop\Senai\Joao\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\ref\WallFertas.dll
+C:\Users\Daniel\Desktop\Senai\Joao\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\WallFertas.pdb
+C:\Users\Daniel\Desktop\Senai\Joao\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\WallFertas.xml
+C:\Users\Daniel\Desktop\Senai\Joao\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Daniel\Desktop\Senai\Joao\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Daniel\Desktop\Senai\Joao\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Daniel\Desktop\Senai\Joao\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Daniel\Desktop\Senai\Joao\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Daniel\Desktop\Senai\Joao\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Daniel\Desktop\Senai\Joao\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Daniel\Desktop\Senai\Joao\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Daniel\Desktop\Senai\Joao\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Daniel\Desktop\Senai\Joao\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\Daniel\Desktop\Senai\Joao\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Daniel\Desktop\Senai\Joao\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+C:\Users\Daniel\Desktop\Senai\Joao\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Daniel\Desktop\Senai\Joao\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Daniel\Desktop\Senai\Joao\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Daniel\Desktop\Senai\Joao\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Daniel\Desktop\Senai\Joao\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Daniel\Desktop\Senai\Joao\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Daniel\Desktop\Senai\Joao\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Daniel\Desktop\Senai\Joao\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Daniel\Desktop\Senai\Joao\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Daniel\Desktop\Senai\Joao\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\Daniel\Desktop\Senai\Joao\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Daniel\Desktop\Senai\Joao\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Daniel\Desktop\Senai\Joao\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Daniel\Desktop\Senai\Joao\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Daniel\Desktop\Senai\Joao\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\Daniel\Desktop\Senai\Joao\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Daniel\Desktop\Senai\Joao\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Daniel\Desktop\Senai\Joao\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Daniel\Desktop\Senai\Joao\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Daniel\Desktop\Senai\Joao\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Daniel\Desktop\Senai\Joao\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Daniel\Desktop\Senai\Joao\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Daniel\Desktop\Senai\Joao\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Daniel\Desktop\Senai\Joao\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Daniel\Desktop\Senai\Joao\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Daniel\Desktop\Senai\Joao\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Daniel\Desktop\Senai\Joao\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Daniel\Desktop\Senai\Joao\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Daniel\Desktop\Senai\Joao\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Daniel\Desktop\Senai\Joao\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Daniel\Desktop\Senai\Joao\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\Daniel\Desktop\Senai\Joao\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\Daniel\Desktop\Senai\Joao\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Daniel\Desktop\Senai\Joao\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Daniel\Desktop\Senai\Joao\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Daniel\Desktop\Senai\Joao\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Daniel\Desktop\Senai\Joao\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\obj\Debug\net5.0\staticwebassets\WallFertas.StaticWebAssets.Manifest.cache
+C:\Users\Daniel\Desktop\Senai\Joao\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\obj\Debug\net5.0\staticwebassets\WallFertas.StaticWebAssets.xml
+C:\Users\Daniel\Desktop\Senai\Joao\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\obj\Debug\net5.0\scopedcss\bundle\WallFertas.styles.css
+C:\Users\Daniel\Desktop\Senai\Joao\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\obj\Debug\net5.0\WallFertas.RazorTargetAssemblyInfo.cache
+C:\Users\Daniel\Desktop\Senai\Joao\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\obj\Debug\net5.0\WallFertas.csproj.CopyComplete
+C:\Users\Daniel\Desktop\Senai\Joao\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\obj\Debug\net5.0\WallFertas.genruntimeconfig.cache
+C:\Users\Daniel\Desktop\Senai\Joao2\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\obj\Debug\net5.0\WallFertas.csproj.AssemblyReference.cache
+C:\Users\Daniel\Desktop\Senai\Joao2\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\obj\Debug\net5.0\WallFertas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel\Desktop\Senai\Joao2\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\obj\Debug\net5.0\WallFertas.AssemblyInfoInputs.cache
+C:\Users\Daniel\Desktop\Senai\Joao2\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\obj\Debug\net5.0\WallFertas.AssemblyInfo.cs
+C:\Users\Daniel\Desktop\Senai\Joao2\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\obj\Debug\net5.0\WallFertas.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Desktop\Senai\Joao2\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\obj\Debug\net5.0\WallFertas.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Daniel\Desktop\Senai\Joao2\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\obj\Debug\net5.0\WallFertas.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Daniel\Desktop\Senai\Joao2\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\obj\Debug\net5.0\WallFertas.dll
+C:\Users\Daniel\Desktop\Senai\Joao2\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\obj\Debug\net5.0\ref\WallFertas.dll
+C:\Users\Daniel\Desktop\Senai\Joao2\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\obj\Debug\net5.0\WallFertas.xml
+C:\Users\Daniel\Desktop\Senai\Joao2\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\obj\Debug\net5.0\WallFertas.pdb
+C:\Users\Daniel\Desktop\Senai\Joao2\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Daniel\Desktop\Senai\Joao2\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\appsettings.json
+C:\Users\Daniel\Desktop\Senai\Joao2\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\WallFertas.exe
+C:\Users\Daniel\Desktop\Senai\Joao2\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\WallFertas.deps.json
+C:\Users\Daniel\Desktop\Senai\Joao2\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\WallFertas.runtimeconfig.json
+C:\Users\Daniel\Desktop\Senai\Joao2\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\WallFertas.runtimeconfig.dev.json
+C:\Users\Daniel\Desktop\Senai\Joao2\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\WallFertas.dll
+C:\Users\Daniel\Desktop\Senai\Joao2\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\ref\WallFertas.dll
+C:\Users\Daniel\Desktop\Senai\Joao2\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\WallFertas.pdb
+C:\Users\Daniel\Desktop\Senai\Joao2\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\WallFertas.xml
+C:\Users\Daniel\Desktop\Senai\Joao2\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Daniel\Desktop\Senai\Joao2\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Daniel\Desktop\Senai\Joao2\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Daniel\Desktop\Senai\Joao2\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Daniel\Desktop\Senai\Joao2\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Daniel\Desktop\Senai\Joao2\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Daniel\Desktop\Senai\Joao2\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Daniel\Desktop\Senai\Joao2\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Daniel\Desktop\Senai\Joao2\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Daniel\Desktop\Senai\Joao2\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\Daniel\Desktop\Senai\Joao2\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Daniel\Desktop\Senai\Joao2\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+C:\Users\Daniel\Desktop\Senai\Joao2\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Daniel\Desktop\Senai\Joao2\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Daniel\Desktop\Senai\Joao2\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Daniel\Desktop\Senai\Joao2\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Daniel\Desktop\Senai\Joao2\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Daniel\Desktop\Senai\Joao2\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Daniel\Desktop\Senai\Joao2\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Daniel\Desktop\Senai\Joao2\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Daniel\Desktop\Senai\Joao2\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Daniel\Desktop\Senai\Joao2\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\Daniel\Desktop\Senai\Joao2\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Daniel\Desktop\Senai\Joao2\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Daniel\Desktop\Senai\Joao2\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Daniel\Desktop\Senai\Joao2\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Daniel\Desktop\Senai\Joao2\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\Daniel\Desktop\Senai\Joao2\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Daniel\Desktop\Senai\Joao2\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Daniel\Desktop\Senai\Joao2\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Daniel\Desktop\Senai\Joao2\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Daniel\Desktop\Senai\Joao2\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Daniel\Desktop\Senai\Joao2\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Daniel\Desktop\Senai\Joao2\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Daniel\Desktop\Senai\Joao2\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Daniel\Desktop\Senai\Joao2\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Daniel\Desktop\Senai\Joao2\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Daniel\Desktop\Senai\Joao2\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Daniel\Desktop\Senai\Joao2\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Daniel\Desktop\Senai\Joao2\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Daniel\Desktop\Senai\Joao2\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Daniel\Desktop\Senai\Joao2\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Daniel\Desktop\Senai\Joao2\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\Daniel\Desktop\Senai\Joao2\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\Daniel\Desktop\Senai\Joao2\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Daniel\Desktop\Senai\Joao2\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Daniel\Desktop\Senai\Joao2\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Daniel\Desktop\Senai\Joao2\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Daniel\Desktop\Senai\Joao2\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\obj\Debug\net5.0\staticwebassets\WallFertas.StaticWebAssets.Manifest.cache
+C:\Users\Daniel\Desktop\Senai\Joao2\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\obj\Debug\net5.0\staticwebassets\WallFertas.StaticWebAssets.xml
+C:\Users\Daniel\Desktop\Senai\Joao2\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\obj\Debug\net5.0\scopedcss\bundle\WallFertas.styles.css
+C:\Users\Daniel\Desktop\Senai\Joao2\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\obj\Debug\net5.0\WallFertas.RazorTargetAssemblyInfo.cache
+C:\Users\Daniel\Desktop\Senai\Joao2\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\obj\Debug\net5.0\WallFertas.csproj.CopyComplete
+C:\Users\Daniel\Desktop\Senai\Joao2\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\obj\Debug\net5.0\WallFertas.genruntimeconfig.cache
+C:\Users\guilh\Desktop\Nova pasta\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\guilh\Desktop\Nova pasta\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\appsettings.json
+C:\Users\guilh\Desktop\Nova pasta\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\WallFertas.exe
+C:\Users\guilh\Desktop\Nova pasta\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\WallFertas.deps.json
+C:\Users\guilh\Desktop\Nova pasta\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\WallFertas.runtimeconfig.json
+C:\Users\guilh\Desktop\Nova pasta\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\WallFertas.runtimeconfig.dev.json
+C:\Users\guilh\Desktop\Nova pasta\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\WallFertas.dll
+C:\Users\guilh\Desktop\Nova pasta\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\ref\WallFertas.dll
+C:\Users\guilh\Desktop\Nova pasta\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\WallFertas.pdb
+C:\Users\guilh\Desktop\Nova pasta\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\WallFertas.xml
+C:\Users\guilh\Desktop\Nova pasta\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\Humanizer.dll
+C:\Users\guilh\Desktop\Nova pasta\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\guilh\Desktop\Nova pasta\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\guilh\Desktop\Nova pasta\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\guilh\Desktop\Nova pasta\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\guilh\Desktop\Nova pasta\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\guilh\Desktop\Nova pasta\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\guilh\Desktop\Nova pasta\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\guilh\Desktop\Nova pasta\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\guilh\Desktop\Nova pasta\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\guilh\Desktop\Nova pasta\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\guilh\Desktop\Nova pasta\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+C:\Users\guilh\Desktop\Nova pasta\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\guilh\Desktop\Nova pasta\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\guilh\Desktop\Nova pasta\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\guilh\Desktop\Nova pasta\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\guilh\Desktop\Nova pasta\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\guilh\Desktop\Nova pasta\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\guilh\Desktop\Nova pasta\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\guilh\Desktop\Nova pasta\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\guilh\Desktop\Nova pasta\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\guilh\Desktop\Nova pasta\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\guilh\Desktop\Nova pasta\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\guilh\Desktop\Nova pasta\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\guilh\Desktop\Nova pasta\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\guilh\Desktop\Nova pasta\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\guilh\Desktop\Nova pasta\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\guilh\Desktop\Nova pasta\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\guilh\Desktop\Nova pasta\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\guilh\Desktop\Nova pasta\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\guilh\Desktop\Nova pasta\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\guilh\Desktop\Nova pasta\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\guilh\Desktop\Nova pasta\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\guilh\Desktop\Nova pasta\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\guilh\Desktop\Nova pasta\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\guilh\Desktop\Nova pasta\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\guilh\Desktop\Nova pasta\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\guilh\Desktop\Nova pasta\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\guilh\Desktop\Nova pasta\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\guilh\Desktop\Nova pasta\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\guilh\Desktop\Nova pasta\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\guilh\Desktop\Nova pasta\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\guilh\Desktop\Nova pasta\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\guilh\Desktop\Nova pasta\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\guilh\Desktop\Nova pasta\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\guilh\Desktop\Nova pasta\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\guilh\Desktop\Nova pasta\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\guilh\Desktop\Nova pasta\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\guilh\Desktop\Nova pasta\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\obj\Debug\net5.0\WallFertas.csprojAssemblyReference.cache
+C:\Users\guilh\Desktop\Nova pasta\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\obj\Debug\net5.0\WallFertas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilh\Desktop\Nova pasta\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\obj\Debug\net5.0\WallFertas.AssemblyInfoInputs.cache
+C:\Users\guilh\Desktop\Nova pasta\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\obj\Debug\net5.0\WallFertas.AssemblyInfo.cs
+C:\Users\guilh\Desktop\Nova pasta\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\obj\Debug\net5.0\WallFertas.csproj.CoreCompileInputs.cache
+C:\Users\guilh\Desktop\Nova pasta\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\obj\Debug\net5.0\WallFertas.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\guilh\Desktop\Nova pasta\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\obj\Debug\net5.0\WallFertas.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\guilh\Desktop\Nova pasta\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\obj\Debug\net5.0\staticwebassets\WallFertas.StaticWebAssets.Manifest.cache
+C:\Users\guilh\Desktop\Nova pasta\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\obj\Debug\net5.0\staticwebassets\WallFertas.StaticWebAssets.xml
+C:\Users\guilh\Desktop\Nova pasta\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\obj\Debug\net5.0\scopedcss\bundle\WallFertas.styles.css
+C:\Users\guilh\Desktop\Nova pasta\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\obj\Debug\net5.0\WallFertas.RazorTargetAssemblyInfo.cache
+C:\Users\guilh\Desktop\Nova pasta\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\obj\Debug\net5.0\WallFertas.csproj.CopyComplete
+C:\Users\guilh\Desktop\Nova pasta\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\obj\Debug\net5.0\WallFertas.dll
+C:\Users\guilh\Desktop\Nova pasta\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\obj\Debug\net5.0\ref\WallFertas.dll
+C:\Users\guilh\Desktop\Nova pasta\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\obj\Debug\net5.0\WallFertas.xml
+C:\Users\guilh\Desktop\Nova pasta\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\obj\Debug\net5.0\WallFertas.pdb
+C:\Users\guilh\Desktop\Nova pasta\Wall_Fertas\BackEnd\WallFertas\WallFertas\WallFertas\obj\Debug\net5.0\WallFertas.genruntimeconfig.cache
+C:\Users\guilh\Desktop\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\guilh\Desktop\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\appsettings.json
+C:\Users\guilh\Desktop\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\WallFertas.exe
+C:\Users\guilh\Desktop\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\WallFertas.deps.json
+C:\Users\guilh\Desktop\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\WallFertas.runtimeconfig.json
+C:\Users\guilh\Desktop\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\WallFertas.runtimeconfig.dev.json
+C:\Users\guilh\Desktop\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\WallFertas.dll
+C:\Users\guilh\Desktop\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\ref\WallFertas.dll
+C:\Users\guilh\Desktop\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\WallFertas.pdb
+C:\Users\guilh\Desktop\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\WallFertas.xml
+C:\Users\guilh\Desktop\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\Humanizer.dll
+C:\Users\guilh\Desktop\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\guilh\Desktop\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\guilh\Desktop\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\guilh\Desktop\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\guilh\Desktop\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\guilh\Desktop\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\guilh\Desktop\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\guilh\Desktop\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\guilh\Desktop\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\guilh\Desktop\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\guilh\Desktop\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+C:\Users\guilh\Desktop\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\guilh\Desktop\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\guilh\Desktop\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\guilh\Desktop\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\guilh\Desktop\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\guilh\Desktop\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\guilh\Desktop\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\guilh\Desktop\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\guilh\Desktop\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\guilh\Desktop\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\guilh\Desktop\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\guilh\Desktop\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\guilh\Desktop\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\guilh\Desktop\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\guilh\Desktop\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\guilh\Desktop\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\guilh\Desktop\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\guilh\Desktop\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\guilh\Desktop\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\guilh\Desktop\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\guilh\Desktop\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\guilh\Desktop\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\guilh\Desktop\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\guilh\Desktop\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\guilh\Desktop\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\guilh\Desktop\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\guilh\Desktop\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\guilh\Desktop\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\guilh\Desktop\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\guilh\Desktop\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\guilh\Desktop\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\guilh\Desktop\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\guilh\Desktop\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\guilh\Desktop\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\guilh\Desktop\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\guilh\Desktop\WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\guilh\Desktop\WallFertas\WallFertas\WallFertas\obj\Debug\net5.0\WallFertas.csprojAssemblyReference.cache
+C:\Users\guilh\Desktop\WallFertas\WallFertas\WallFertas\obj\Debug\net5.0\WallFertas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilh\Desktop\WallFertas\WallFertas\WallFertas\obj\Debug\net5.0\WallFertas.AssemblyInfoInputs.cache
+C:\Users\guilh\Desktop\WallFertas\WallFertas\WallFertas\obj\Debug\net5.0\WallFertas.AssemblyInfo.cs
+C:\Users\guilh\Desktop\WallFertas\WallFertas\WallFertas\obj\Debug\net5.0\WallFertas.csproj.CoreCompileInputs.cache
+C:\Users\guilh\Desktop\WallFertas\WallFertas\WallFertas\obj\Debug\net5.0\WallFertas.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\guilh\Desktop\WallFertas\WallFertas\WallFertas\obj\Debug\net5.0\WallFertas.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\guilh\Desktop\WallFertas\WallFertas\WallFertas\obj\Debug\net5.0\staticwebassets\WallFertas.StaticWebAssets.Manifest.cache
+C:\Users\guilh\Desktop\WallFertas\WallFertas\WallFertas\obj\Debug\net5.0\staticwebassets\WallFertas.StaticWebAssets.xml
+C:\Users\guilh\Desktop\WallFertas\WallFertas\WallFertas\obj\Debug\net5.0\scopedcss\bundle\WallFertas.styles.css
+C:\Users\guilh\Desktop\WallFertas\WallFertas\WallFertas\obj\Debug\net5.0\WallFertas.RazorTargetAssemblyInfo.cache
+C:\Users\guilh\Desktop\WallFertas\WallFertas\WallFertas\obj\Debug\net5.0\WallFertas.csproj.CopyComplete
+C:\Users\guilh\Desktop\WallFertas\WallFertas\WallFertas\obj\Debug\net5.0\WallFertas.dll
+C:\Users\guilh\Desktop\WallFertas\WallFertas\WallFertas\obj\Debug\net5.0\ref\WallFertas.dll
+C:\Users\guilh\Desktop\WallFertas\WallFertas\WallFertas\obj\Debug\net5.0\WallFertas.xml
+C:\Users\guilh\Desktop\WallFertas\WallFertas\WallFertas\obj\Debug\net5.0\WallFertas.pdb
+C:\Users\guilh\Desktop\WallFertas\WallFertas\WallFertas\obj\Debug\net5.0\WallFertas.genruntimeconfig.cache
+C:\Users\Daniel\Desktop\Senai\ProjetoWallFertas\Wall_Fertas\BackEnd_WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Daniel\Desktop\Senai\ProjetoWallFertas\Wall_Fertas\BackEnd_WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\appsettings.json
+C:\Users\Daniel\Desktop\Senai\ProjetoWallFertas\Wall_Fertas\BackEnd_WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\WallFertas.exe
+C:\Users\Daniel\Desktop\Senai\ProjetoWallFertas\Wall_Fertas\BackEnd_WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\WallFertas.deps.json
+C:\Users\Daniel\Desktop\Senai\ProjetoWallFertas\Wall_Fertas\BackEnd_WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\WallFertas.runtimeconfig.json
+C:\Users\Daniel\Desktop\Senai\ProjetoWallFertas\Wall_Fertas\BackEnd_WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\WallFertas.runtimeconfig.dev.json
+C:\Users\Daniel\Desktop\Senai\ProjetoWallFertas\Wall_Fertas\BackEnd_WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\WallFertas.dll
+C:\Users\Daniel\Desktop\Senai\ProjetoWallFertas\Wall_Fertas\BackEnd_WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\ref\WallFertas.dll
+C:\Users\Daniel\Desktop\Senai\ProjetoWallFertas\Wall_Fertas\BackEnd_WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\WallFertas.pdb
+C:\Users\Daniel\Desktop\Senai\ProjetoWallFertas\Wall_Fertas\BackEnd_WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\WallFertas.xml
+C:\Users\Daniel\Desktop\Senai\ProjetoWallFertas\Wall_Fertas\BackEnd_WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Daniel\Desktop\Senai\ProjetoWallFertas\Wall_Fertas\BackEnd_WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Daniel\Desktop\Senai\ProjetoWallFertas\Wall_Fertas\BackEnd_WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Daniel\Desktop\Senai\ProjetoWallFertas\Wall_Fertas\BackEnd_WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Daniel\Desktop\Senai\ProjetoWallFertas\Wall_Fertas\BackEnd_WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Daniel\Desktop\Senai\ProjetoWallFertas\Wall_Fertas\BackEnd_WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Daniel\Desktop\Senai\ProjetoWallFertas\Wall_Fertas\BackEnd_WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Daniel\Desktop\Senai\ProjetoWallFertas\Wall_Fertas\BackEnd_WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Daniel\Desktop\Senai\ProjetoWallFertas\Wall_Fertas\BackEnd_WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Daniel\Desktop\Senai\ProjetoWallFertas\Wall_Fertas\BackEnd_WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\Daniel\Desktop\Senai\ProjetoWallFertas\Wall_Fertas\BackEnd_WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Daniel\Desktop\Senai\ProjetoWallFertas\Wall_Fertas\BackEnd_WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+C:\Users\Daniel\Desktop\Senai\ProjetoWallFertas\Wall_Fertas\BackEnd_WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Daniel\Desktop\Senai\ProjetoWallFertas\Wall_Fertas\BackEnd_WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Daniel\Desktop\Senai\ProjetoWallFertas\Wall_Fertas\BackEnd_WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Daniel\Desktop\Senai\ProjetoWallFertas\Wall_Fertas\BackEnd_WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Daniel\Desktop\Senai\ProjetoWallFertas\Wall_Fertas\BackEnd_WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Daniel\Desktop\Senai\ProjetoWallFertas\Wall_Fertas\BackEnd_WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Daniel\Desktop\Senai\ProjetoWallFertas\Wall_Fertas\BackEnd_WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Daniel\Desktop\Senai\ProjetoWallFertas\Wall_Fertas\BackEnd_WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Daniel\Desktop\Senai\ProjetoWallFertas\Wall_Fertas\BackEnd_WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Daniel\Desktop\Senai\ProjetoWallFertas\Wall_Fertas\BackEnd_WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\Daniel\Desktop\Senai\ProjetoWallFertas\Wall_Fertas\BackEnd_WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Daniel\Desktop\Senai\ProjetoWallFertas\Wall_Fertas\BackEnd_WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Daniel\Desktop\Senai\ProjetoWallFertas\Wall_Fertas\BackEnd_WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Daniel\Desktop\Senai\ProjetoWallFertas\Wall_Fertas\BackEnd_WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Daniel\Desktop\Senai\ProjetoWallFertas\Wall_Fertas\BackEnd_WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\Daniel\Desktop\Senai\ProjetoWallFertas\Wall_Fertas\BackEnd_WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Daniel\Desktop\Senai\ProjetoWallFertas\Wall_Fertas\BackEnd_WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Daniel\Desktop\Senai\ProjetoWallFertas\Wall_Fertas\BackEnd_WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Daniel\Desktop\Senai\ProjetoWallFertas\Wall_Fertas\BackEnd_WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Daniel\Desktop\Senai\ProjetoWallFertas\Wall_Fertas\BackEnd_WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Daniel\Desktop\Senai\ProjetoWallFertas\Wall_Fertas\BackEnd_WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Daniel\Desktop\Senai\ProjetoWallFertas\Wall_Fertas\BackEnd_WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Daniel\Desktop\Senai\ProjetoWallFertas\Wall_Fertas\BackEnd_WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Daniel\Desktop\Senai\ProjetoWallFertas\Wall_Fertas\BackEnd_WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Daniel\Desktop\Senai\ProjetoWallFertas\Wall_Fertas\BackEnd_WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Daniel\Desktop\Senai\ProjetoWallFertas\Wall_Fertas\BackEnd_WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Daniel\Desktop\Senai\ProjetoWallFertas\Wall_Fertas\BackEnd_WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Daniel\Desktop\Senai\ProjetoWallFertas\Wall_Fertas\BackEnd_WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Daniel\Desktop\Senai\ProjetoWallFertas\Wall_Fertas\BackEnd_WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Daniel\Desktop\Senai\ProjetoWallFertas\Wall_Fertas\BackEnd_WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Daniel\Desktop\Senai\ProjetoWallFertas\Wall_Fertas\BackEnd_WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\Daniel\Desktop\Senai\ProjetoWallFertas\Wall_Fertas\BackEnd_WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\Daniel\Desktop\Senai\ProjetoWallFertas\Wall_Fertas\BackEnd_WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Daniel\Desktop\Senai\ProjetoWallFertas\Wall_Fertas\BackEnd_WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Daniel\Desktop\Senai\ProjetoWallFertas\Wall_Fertas\BackEnd_WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Daniel\Desktop\Senai\ProjetoWallFertas\Wall_Fertas\BackEnd_WallFertas\WallFertas\WallFertas\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Daniel\Desktop\Senai\ProjetoWallFertas\Wall_Fertas\BackEnd_WallFertas\WallFertas\WallFertas\obj\Debug\net5.0\WallFertas.csproj.AssemblyReference.cache
+C:\Users\Daniel\Desktop\Senai\ProjetoWallFertas\Wall_Fertas\BackEnd_WallFertas\WallFertas\WallFertas\obj\Debug\net5.0\WallFertas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel\Desktop\Senai\ProjetoWallFertas\Wall_Fertas\BackEnd_WallFertas\WallFertas\WallFertas\obj\Debug\net5.0\WallFertas.AssemblyInfoInputs.cache
+C:\Users\Daniel\Desktop\Senai\ProjetoWallFertas\Wall_Fertas\BackEnd_WallFertas\WallFertas\WallFertas\obj\Debug\net5.0\WallFertas.AssemblyInfo.cs
+C:\Users\Daniel\Desktop\Senai\ProjetoWallFertas\Wall_Fertas\BackEnd_WallFertas\WallFertas\WallFertas\obj\Debug\net5.0\WallFertas.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Desktop\Senai\ProjetoWallFertas\Wall_Fertas\BackEnd_WallFertas\WallFertas\WallFertas\obj\Debug\net5.0\WallFertas.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Daniel\Desktop\Senai\ProjetoWallFertas\Wall_Fertas\BackEnd_WallFertas\WallFertas\WallFertas\obj\Debug\net5.0\WallFertas.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Daniel\Desktop\Senai\ProjetoWallFertas\Wall_Fertas\BackEnd_WallFertas\WallFertas\WallFertas\obj\Debug\net5.0\staticwebassets\WallFertas.StaticWebAssets.Manifest.cache
+C:\Users\Daniel\Desktop\Senai\ProjetoWallFertas\Wall_Fertas\BackEnd_WallFertas\WallFertas\WallFertas\obj\Debug\net5.0\staticwebassets\WallFertas.StaticWebAssets.xml
+C:\Users\Daniel\Desktop\Senai\ProjetoWallFertas\Wall_Fertas\BackEnd_WallFertas\WallFertas\WallFertas\obj\Debug\net5.0\scopedcss\bundle\WallFertas.styles.css
+C:\Users\Daniel\Desktop\Senai\ProjetoWallFertas\Wall_Fertas\BackEnd_WallFertas\WallFertas\WallFertas\obj\Debug\net5.0\WallFertas.RazorTargetAssemblyInfo.cache
+C:\Users\Daniel\Desktop\Senai\ProjetoWallFertas\Wall_Fertas\BackEnd_WallFertas\WallFertas\WallFertas\obj\Debug\net5.0\WallFertas.csproj.CopyComplete
+C:\Users\Daniel\Desktop\Senai\ProjetoWallFertas\Wall_Fertas\BackEnd_WallFertas\WallFertas\WallFertas\obj\Debug\net5.0\WallFertas.dll
+C:\Users\Daniel\Desktop\Senai\ProjetoWallFertas\Wall_Fertas\BackEnd_WallFertas\WallFertas\WallFertas\obj\Debug\net5.0\ref\WallFertas.dll
+C:\Users\Daniel\Desktop\Senai\ProjetoWallFertas\Wall_Fertas\BackEnd_WallFertas\WallFertas\WallFertas\obj\Debug\net5.0\WallFertas.xml
+C:\Users\Daniel\Desktop\Senai\ProjetoWallFertas\Wall_Fertas\BackEnd_WallFertas\WallFertas\WallFertas\obj\Debug\net5.0\WallFertas.pdb
+C:\Users\Daniel\Desktop\Senai\ProjetoWallFertas\Wall_Fertas\BackEnd_WallFertas\WallFertas\WallFertas\obj\Debug\net5.0\WallFertas.genruntimeconfig.cache
