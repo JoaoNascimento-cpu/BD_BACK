@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import { Image, ImageBackground, StyleSheet, Text, TextInput, TouchableOpacity, View } from 'react-native';
-import AsyncStorage from '@react-native-async-storage/async-storage';
+
 
 // import api from '../services/api';
 
@@ -18,7 +18,7 @@ export default class Login extends Component {
 
         try {
 
-            const resposta = await api.post('/login', {
+            const resposta = await api.post('/Login', {
                 email: this.state.email,
                 senha: this.state.senha,
             });
@@ -39,14 +39,14 @@ export default class Login extends Component {
     render() {
         return (
             <ImageBackground
-                source={require('../../assets/img/login.png')}
+                //source={require('../../assets/img/login.png')}
                 style={StyleSheet.absoluteFillObject}
             >
                 <View style={styles.overlay} />
                 <View style={styles.main}>
 
                     <Image
-                        source={require('../../assets/img/loginIcon2x.png')}
+                        //source={require('../../assets/img/loginIcon2x.png')}
                         style={styles.mainImgLogin}
                     />
 
